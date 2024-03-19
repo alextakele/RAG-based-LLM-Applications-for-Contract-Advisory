@@ -13,10 +13,16 @@ To install and use the GitHub application "RAG-based-LLM-Applications-for-Contra
 
 #### Clone the Repository:
 Open your terminal or command prompt.
-Run the command: git clone https://github.com/alextakele/RAG-based-LLM-Applications-for-Contract-Advisory.git
-This command will clone the repository to your local machine 1.
-Set Up Your Environment:
+
+Run the command: 
+
+git clone https://github.com/alextakele/RAG-based-LLM-Applications-for-Contract-Advisory.git
+
+This command will clone the repository to your local machine 
+1. Set Up Your Environment:
+   
 Navigate to the cloned repository directory.
+
 Install the required dependencies by running: pip install -r requirements.txt
 This command installs all the necessary Python packages listed in the requirements.txt file 1.
 Explore the Notebooks:
