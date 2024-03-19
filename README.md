@@ -11,7 +11,7 @@
  - This repository is designed to support developers in creating highly scalable and available LLM applications, leveraging advanced techniques for efficient model serving and evaluation.
 To install and use the GitHub application "RAG-based-LLM-Applications-for-Contract-Advisory" from the repository by Alex Takele, follow these steps:
 
-Clone the Repository:
+#### Clone the Repository:
 Open your terminal or command prompt.
 Run the command: git clone https://github.com/alextakele/RAG-based-LLM-Applications-for-Contract-Advisory.git
 This command will clone the repository to your local machine 1.
