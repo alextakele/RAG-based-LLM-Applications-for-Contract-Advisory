@@ -9,24 +9,18 @@
  - It also emphasizes the impact of LLM applications on product development, sharing insights into both first and second-order effects. 
  
  - This repository is designed to support developers in creating highly scalable and available LLM applications, leveraging advanced techniques for efficient model serving and evaluation.
-# Step 1: Clone the Repository
+# Clone the Repository
 git clone https://github.com/alextakele/RAG-based-LLM-Applications-for-Contract-Advisory.git
 
-# Step 2: Set Up Your Environment
+# Navigate to the cloned repository directory
 cd RAG-based-LLM-Applications-for-Contract-Advisory
+
+# Install the required dependencies
 pip install -r requirements.txt
 
-# Step 3: Explore the Notebooks
-# Open the notebooks using Jupyter Notebook or JupyterLab
-# For example, to open the first notebook:
+# Open the Jupyter notebooks
 jupyter notebook RAG_Pipline.ipynb
-# Or, to open the second notebook:
+# or
 jupyter notebook RAG_pipline-with_RAGAS.ipynb
 
-# Step 4: Follow the Instructions
-# Refer to the README.md file for detailed instructions
-
-# Step 5: License and Resources
-# The project is licensed under the MIT license
-# For additional resources, refer to the README.md file
  
