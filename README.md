@@ -1,4 +1,3 @@
-# RAG-based-LLM-Applications-for-Contract-Advisory
+# RAG based LLM Applications for Contract Advisory
  ### Overview
- Base LLMs (ex. Llama-2-70b, gpt-4, etc.) are only aware of the information that they've been trained on and will fall short when we require them to know information beyond that. 
- Retrieval augmented generation (RAG) based LLM applications address this exact issue and extend the utility of LLMs to our specific data sources. 
+ This project provides a comprehensive guide to developing and scaling Retrieval Augmented Generation (RAG) based Large Language Models (LLMs) for contract advisory applications. It includes tools and resources for building production-ready LLM applications, focusing on optimizing performance and scalability. The project aims to bridge the gap between open-source and proprietary LLMs, offering a hybrid routing approach for seamless integration. It also emphasizes the impact of LLM applications on product development, sharing insights into both first and second-order effects. This repository is designed to support developers in creating highly scalable and available LLM applications, leveraging advanced techniques for efficient model serving and evaluation. 
